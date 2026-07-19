@@ -6,7 +6,7 @@ A beautiful and responsive **Custom Social Media Select Menu** built using **HTM
 
 ## 🚀 Live Demo
 
-🔗 **Live Website:** https://your-live-demo-link.netlify.app
+🔗 **Live Website:** https://select-menu-alpha.vercel.app/
 
 
 ---
@@ -109,13 +109,13 @@ This project helps beginners understand:
 Clone the project
 
 ```bash
-git clone https://github.com/your-username/social-media-select-menu.git
+git clone https://github.com/bs-bhaskar/select-menu.git
 ```
 
 Go to the project folder
 
 ```bash
-cd social-media-select-menu
+cd select-menu
 ```
 
 Open `index.html` in your browser.
